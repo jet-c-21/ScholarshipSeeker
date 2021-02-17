@@ -1,0 +1,10 @@
+# crawler
+requests
+bs4
+pyquery
+
+# progress bar
+tqdm
+
+# jupyter
+jupyter
